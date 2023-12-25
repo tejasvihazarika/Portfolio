@@ -1,0 +1,138 @@
+body{
+    background-image: url("backkk1.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    margin-right: 10%;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: gray;
+}
+a:link{
+    color: white;
+}
+header{
+    font-family: Montserrat;
+  /* width: 1000px;
+  
+  border: 5px solid;
+  border-color: aliceblue;
+  padding: 2%; */
+  height: 20px;
+  margin-top: 3%;
+  margin: 5%;
+  margin-left: 9%;
+  font-size: 1.2em;
+  letter-spacing: 2px;
+}
+h1{
+    margin-left: 30%;
+    color: aliceblue;
+    font-family: Montserrat ;
+    font-size: 50px;
+    padding: 1%;  
+    text-decoration: underline blue;
+}
+.box-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin: 20px auto; /* Center the container */
+  }
+  #box111:hover {
+    transform: scale(1.2);
+    background-color: grey;
+  }
+  #box112:hover {
+    transform: scale(1.2);
+    background-color: grey;
+  }
+  #box113:hover {
+    transform: scale(1.2);
+    background-color: grey;
+  }
+  #box114:hover {
+    transform: scale(1.2);
+    background-color: grey;
+  }
+  #box115:hover {
+    transform: scale(1.2);
+    background-color: grey;
+  }
+  #box116:hover {
+    transform: scale(1.2);
+    background-color: grey;
+  }
+  /* Individual box styling */
+  #box111 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px; /* Adjust the margin between boxes as needed */
+    box-sizing: border-box;
+    border-radius: 20px; /* Include padding and border in the box size */
+    transition: transform 0.3s ease-in-out;
+    
+  }
+
+  #box112 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px; /* Adjust the margin between boxes as needed */
+    box-sizing: border-box;
+    border-radius: 20px; /* Include padding and border in the box size */
+    transition: transform 0.3s ease-in-out;
+  }
+  #box113{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px; /* Adjust the margin between boxes as needed */
+    box-sizing: border-box;
+    border-radius: 20px; /* Include padding and border in the box size */
+    transition: transform 0.3s ease-in-out;
+  }
+  #box114 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px; /* Adjust the margin between boxes as needed */
+    box-sizing: border-box;
+    border-radius: 20px; /* Include padding and border in the box size */
+    transition: transform 0.3s ease-in-out;
+  }
+  #box115 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px; /* Adjust the margin between boxes as needed */
+    box-sizing: border-box;
+    border-radius: 20px; /* Include padding and border in the box size */
+    transition: transform 0.3s ease-in-out;
+  }
+  #box116 {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px; /* Adjust the margin between boxes as needed */
+    box-sizing: border-box;
+    border-radius: 20px; /* Include padding and border in the box size */
+    transition: transform 0.3s ease-in-out;
+  }
+  p{
+    text-align: center;
+    font-size: 20px;
+  }
+  img{
+    margin-left: 35%;
+    margin-top: 10%;
+}

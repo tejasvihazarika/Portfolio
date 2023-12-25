@@ -1,0 +1,141 @@
+body{
+    background-image: url("Background.png.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    /* margin: 0; */
+}
+h1{
+    color: white;
+    font-family: Montserrat;
+    letter-spacing: 2px;
+}
+#heading{
+    color: white;
+    font-family: Montserrat;
+    letter-spacing: 6px;
+    font-size: 30px;
+    margin-top: -10%;
+}
+#box1{
+    width: 600px;
+    height: 170px;
+    /* border: 5px solid;
+    border-color: antiquewhite; */
+    padding: 20%;
+    padding-left: 9%;
+    padding-top:14%;
+}
+#h11{
+    font-weight:lighter;
+    margin-top: -17%;
+    margin-left: 1%;
+    letter-spacing: 3px;
+    font-size: 55px;
+}
+#h12{
+    font-weight: bolder;
+    margin-top: -7%;
+    font-size:80px;
+}
+.my-button1 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    border-radius: 30px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  /* Hover effect */
+  .my-button1:hover {
+    background-color:white;
+    color: black;
+  }
+  .my-button2 {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid white;
+    color: white;
+    background-color: transparent;
+    border-radius: 30px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  /* Hover effect */
+  .my-button2:hover {
+    background-color:white;
+    color: black;
+  }
+  #but1{
+    /* border: 5px solid;
+    border-color: white; */
+    width: 300px;
+    height: 40px;
+    padding: 1%;
+    letter-spacing: 3px;
+    margin-top: -26%;
+    margin-left: 7.8%;
+  }
+  #icons{
+    width: 200px;
+    height: 30px;
+    /* border: 5px solid;
+    border-color: aliceblue;  */
+    padding: 1%;
+    margin-top: 12%;
+    margin-left: 8%;
+    letter-spacing: 7px;
+  }
+
+a:visited{
+  color: white;
+}
+a:hover{
+  color: gray;
+}
+a:link{
+  color: white;
+}
+#a1{
+  text-decoration: none;
+  margin-right: 10%;
+}
+#a2{
+  text-decoration: none;
+  margin-right: 10%;
+}
+#a3{
+  text-decoration: none;
+  margin-right: 10%;
+}
+#a4{
+  text-decoration: none;
+  margin-right: 10%;
+}
+header{
+  /* font-size: 20px;
+  */
+  font-family: Montserrat;
+  /* width: 1000px;
+  
+  border: 5px solid;
+  border-color: aliceblue;
+  padding: 2%; */
+  height: 20px;
+  margin-top: 5%; 
+  margin: 5%;
+  margin-left: 9%;
+  font-size: 1.2em;
+  letter-spacing: 2px;
+}
